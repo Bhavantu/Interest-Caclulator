@@ -1,0 +1,49 @@
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+
+footer{
+    text-align: left;
+}
+
+h1{
+    color:grey;
+    font-family:verdana;
+    text-align:center;
+    margin-top: 10px;
+}
+
+
+.maindiv{
+    background: white;
+    color:black;
+    width: 500px;
+    padding: 30px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.container{
+    margin-left: 60px;
+}
+
+input,
+label,
+select {
+  float: left;
+  margin-left: 0;
+}
+
+label {
+    width: 100px;
+    clear: left;
+    text-align: left;
+    padding-right: 30px;
+  }
+
+
+
+
+
